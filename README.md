@@ -1,2 +1,3 @@
 # test
-This repository is only for testing purposes.
+
+**test** is a simple only testing purposes repository.
