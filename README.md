@@ -1,3 +1,3 @@
 # test
 
-**test** is a only a simple testing purposes repository.
+**test** is testing purposes repository.
